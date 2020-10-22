@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "demo",
+      "workspace_dir": "/Shared/dbx/dbxtest9",
+      "artifact_location": "dbfs:/Users/msh/dbx/dbxtest9"
+    }
+  }
+}
